@@ -5,7 +5,6 @@ pipeline {
         CLUSTER_NAME = 'autopilot-cluster-1'
         LOCATION = 'us-east4'
         CREDENTIALS_ID = 'GKE-Admin'
-        
     }
     stages {
         stage("Checkout code") {
