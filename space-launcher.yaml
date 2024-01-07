@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: space-launcher
+  labels:
+    app: space-launcher
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: space-launcher
+  template:
+    metadata:
+      labels:
+        app: space-launcher
+    spec:
+      containers:
+      - name: space-launcher
+        image: pxavier12/space-launcher:latest
+        resources:
+          requests:
+            memory: "64Mi"
+            cpu: "250m"
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 3000
