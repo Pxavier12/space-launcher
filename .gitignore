@@ -1,1 +1,3 @@
 node_modules
+Terraform/.terraform.lock.hcl
+Terraform/.terraform

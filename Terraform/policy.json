@@ -1,0 +1,9 @@
+{
+  "bindings": [
+    {
+      "members": ["user:ginenjuiceprod@gmail.com"],
+      "role": "roles/iam.serviceAccountTokenCreator"
+    }
+  ],
+  "etag": "ACAB"
+}

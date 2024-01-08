@@ -1,0 +1,3 @@
+bucket = "tf-state-buck"
+prefix = "static.tfstate.d"
+impersonate_service_account = "tf-svc-admin@sodium-burner-410514.iam.gserviceaccount.com"
