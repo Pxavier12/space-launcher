@@ -2,8 +2,8 @@ pipeline {
     agent any
     environment {
         PROJECT_ID = 'sodium-burner-410514'
-        CLUSTER_NAME = 'autopilot-cluster-1'
-        LOCATION = 'us-east4'
+        CLUSTER_NAME = 'primary'
+        LOCATION = 'europe-west1-b'
         CREDENTIALS_ID = 'GKE-Admin'
         
     }

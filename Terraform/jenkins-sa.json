@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sodium-burner-410514",
+  "private_key_id": "5bd5901f30a5b9bc72c437449645e9d25d80243c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC0v3Tf4YzAkIog\nIfTLl0ohQbU7GBBdS9BLtoWR9AKK0Uu4XFoCCY6+L+ClySnsGlLPS+swlZ3rax8v\n6a8kBX3omeoyeEbPtBpFh0JpbBcx5Hk8suozCq+26/yfImRROwZz5OCg5yqzqUDh\n+SVWSawfUoa5Oes6jD4d25nFLNCcK/HjoxNC3W2s/13N/SEDCMxVusfUVoHt6lXn\n0pP9dSGuuo0cGpyEZablVCq1IA/MOZ+K6DZHM9x48Y17PqmAQ9mgAoWoJXkFxIML\nOiSxJuSM2b7MiG1tH+vEAGdASRxZd+NDohSWqHwrO6RzmipfoNDFw7+MkeVTcZNs\nqcYTALPTAgMBAAECggEAM8+Vzv82e5RzI5bYNuvdIf9V1eSl/DhZMvrU+ut5NxWb\noPNIEcFvm3DZ8mvhin5ZMnbOqhSZOfxw6ikQPUEdwGkuSt1TXwJ/bWLCVLnZREH7\nxrx6ibsMd2DZ/zu6idZjmSEIitb41Js1sBDc9QkVP71GRR4nIZdFzwU95NldywYK\nGZor1W7UxqpqssuymDRxueubaZFwvI9AmmyhTHxXKyJm2F05N0KuwQa4dhgB8sxA\nfmoLEZgEJqE0/ACcJ7bVRCgS3e/Fg8e/LV/3M7onjInEPQOWNF/HujbtAQAFinUy\n9GXQHDyfke0Xay3EqRHZ9KPhxaEIvYMVCuiEAvxI4QKBgQDoA8ruH/dvBA+fjyRC\n/UeysSasfCwTNZU1B9PcjA1YyARaYoOCSm/Z1qSG2lEqQQJKU5TtfBuhGbIcpJ1F\nlYH5EFMGIUO7PbDp6CUXijyxbfvG99s6gJlGRUifLi9Bid0PbW2CW2mvHZsFFbKV\nBBh0CFYSy0VVPIOuWOz61ctKCwKBgQDHbuYNbjFukrU8m3qvQV9k8RA0dPZDd6h7\nzMONGg9nVnzT+ntc/jFZ/lc06yCM0elCQ+jWAMVa3ojJltxd1bsT1yfI7DRpRZ6+\n7Gv1JSbupfLqhR+fj2zjxW8a19gxEHy/J/wzy2IuBEUqeCJmhe71/AGwAUgBn6qt\nll+gRAuiWQKBgQC9Ptq3gLuCgf18WHVrbsycpIK3DlGlGX+q0cetjU8Vq5BhaRl7\nnNu/A6UPmeO6Y2xK1AIV87VVom/1jQ/7QgfR787IoTlt8NPs9r3Khacb0mob0O+w\nuFRNTRX/QNyqyJjXjJpWSdnaTHu1mg0gH0cS3fnXOpZDACkofMBPmTNIIQKBgQCe\nuqxNajPbvtaS22ilDlHfpGHyblkGz7kAd7P4nRI/fD2z9bu0AvjCmMVN8AojKnsN\n68DoewqYzV9vmyvfX1oba3ZV23HHi8rSSJeQMLaw4NHbSIMn2t6e1qgcZEjEnEu9\nVRTNIIYO/AUUzTMMCHNtwtqQ/CQUbsFIkdOgWigsWQKBgQCksbyhZdg8KFNQL8Pt\nnpcjwUgMCtyJMSYl9DlSduegZtOoU+YHaiz7csPtiE4JXSBVgGy9204vIHRJxLZS\nIrk+049yCmjCpdbBAHDhcwovA2xMdAJmOdSFWLPv6WwnGBpTqq0b80asuCW+IwGW\ndmPzYZMOz/6qphYlpwXlDEAxvw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jenkins@sodium-burner-410514.iam.gserviceaccount.com",
+  "client_id": "110566051007208167492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenkins%40sodium-burner-410514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
